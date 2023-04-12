@@ -1,3 +1,4 @@
+![logo](https://github.com/MasihOmar/MasihOmar/blob/main/20503233.jpg)
 <h1 align="center">Hi 👋, I'm Masihullah Omar</h1>
 <h3 align="center">A Computer Engineer</h3>
 
