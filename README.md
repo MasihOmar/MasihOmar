@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **masihullahomar2001@gmail.com**
 
-- My resume [https://drive.google.com/file/d/1959C2V28HTisgHr078Db5Meu1Du4PuRL/view?usp=sharing](https://drive.google.com/file/d/1959C2V28HTisgHr078Db5Meu1Du4PuRL/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/masihullah-omar-274711261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/masihullah-omar-274711261/" height="30" width="40" /></a>
